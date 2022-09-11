@@ -1,7 +1,35 @@
 h1{
     background-color:blanchedalmond;
+    font-size: 48px;
+    text-align: center;
 }
 img{
-    width:150px;
-    height:150px;
+    width:300px;
+    height:300px;
+}
+div h1{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 48px;
+}
+.cheese h1{
+    background-color: crimson;
+    color: white;
+    font-size: 48px;
+}
+.dog h1{
+    background-color: tomato;
+    color: white;
+    font-size: 48px;
+}
+.cat h1{
+    background-color:gold;
+    color: white;
+    font-size: 48px;
+}
+.rat h1{
+    background-color:rgb(121, 179, 33);
+    color: white;
+    font-size: 48px;
 }
